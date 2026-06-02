@@ -4,15 +4,15 @@
 
 ---
 
-## 0. Datos del proyecto (completar)
+## 0. Datos del proyecto 
 
-- **Nombre del proyecto:** [COMPLETAR — sugerencia: "VLC Reskin: rediseño de la interfaz de VLC Media Player"]
-- **Asignatura / curso:** [COMPLETAR]
-- **Docente / Decano:** [COMPLETAR]
-- **Integrantes del grupo:** [COMPLETAR — nombre y rol de cada uno]
+- **Nombre del proyecto:** VLC Reskin: rediseño de la interfaz de VLC Media Player
+- **Asignatura / curso:** Open Source
+- **Docente / Decano:** Juan Antonio Martinez
+- **Integrantes del grupo:** Dylan Esteban Ricaurte Cuervo - Brayan Stiven Garcia Camacho
 - **Semestre:** 4.º semestre de Ingeniería de Software
-- **Fecha de presentación:** [COMPLETAR]
-- **Repositorio del proyecto:** [COMPLETAR — enlace de GitHub]
+- **Fecha de presentación:** 02/06/26
+- **Repositorio del proyecto:** https://github.com/DylanRC4/proyecto-vlc-ui.git
 
 ---
 
